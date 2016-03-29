@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=directoryServiceName
+comment0.target=SuperAgent(String)
+comment1.target=String\ getAgentName()
+comment10.params=credentials
+comment10.target=void\ updateBuyerCredentials(Vector)
+comment2.target=void\ run()
+comment3.target=Vector\ getCredentialsAsSeller()
+comment4.target=Vector\ getCredentialsAsBuyer()
+comment5.params=agent
+comment5.target=Vector\ getCredentialsForSeller(SuperAgentInterface)
+comment6.params=agent
+comment6.target=Vector\ getCredentioalsForBuyer(SuperAgentInterface)
+comment7.params=buyer\ Item
+comment7.target=boolean\ sellMeItem(SuperAgentInterface,\ Object)
+comment8.target=boolean\ informAboutTransactionOutcome()
+comment9.params=credentials
+comment9.target=void\ updateSellerCredentials(Vector)
+numComments=11

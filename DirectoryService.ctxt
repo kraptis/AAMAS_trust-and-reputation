@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=directoryServiceName
+comment0.target=DirectoryService(String)
+comment1.params=agent
+comment1.target=RegistrationData\ register(SuperAgentInterface)
+comment2.target=void\ run()
+comment3.params=agent
+comment3.target=Vector<SuperAgentInterface>\ getNeighbours(SuperAgentInterface)
+comment4.params=item
+comment4.target=Vector<SuperAgentInterface>\ getSellersOf(Object)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=agent
+comment0.target=RegistrationData\ register(SuperAgentInterface)
+comment0.text=\nAn\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\n\n@param\ \ y\ \ \ \ a\ sample\ parameter\ for\ a\ method\n@return\ \ \ \ \ \ \ \ the\ result\ produced\ by\ sampleMethod\ \n\n
+comment1.params=agent
+comment1.target=Vector<SuperAgentInterface>\ getNeighbours(SuperAgentInterface)
+comment2.params=item
+comment2.target=Vector<SuperAgentInterface>\ getSellersOf(Object)
+numComments=3

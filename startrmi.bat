@@ -1,0 +1,4 @@
+rmic LoggingFacility
+rmic SuperAgent
+rmic DirectoryService
+rmiregistry

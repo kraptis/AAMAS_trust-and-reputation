@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=String\ getAgentName()
+comment0.text=\nAn\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\n\n@param\ \ y\ \ \ \ a\ sample\ parameter\ for\ a\ method\n@return\ \ \ \ \ \ \ \ the\ result\ produced\ by\ sampleMethod\ \n\n
+comment1.target=Vector\ getCredentialsAsSeller()
+comment2.target=Vector\ getCredentialsAsBuyer()
+comment3.params=agent
+comment3.target=Vector\ getCredentialsForSeller(SuperAgentInterface)
+comment4.params=agent
+comment4.target=Vector\ getCredentioalsForBuyer(SuperAgentInterface)
+comment5.params=buyer\ Item
+comment5.target=boolean\ sellMeItem(SuperAgentInterface,\ Object)
+comment6.target=boolean\ informAboutTransactionOutcome()
+comment6.text=Step\ 1\:\ Mechanism.willSellTo(buyer);\n\n
+comment7.params=credentials
+comment7.target=void\ updateSellerCredentials(Vector)
+comment8.params=credentials
+comment8.target=void\ updateBuyerCredentials(Vector)
+numComments=9
